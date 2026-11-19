@@ -5,7 +5,7 @@
     "dsh": ">=0.2.0-rc.2 <0.2.3-0"
   },
   "private": true,
-  "description": "Toggleable unrestricted mode for DeepSeek Harness: fuses execution rules into the active standard, ptc, cordis, minimal, and subagent prompts",
+  "description": "Toggleable unrestricted mode for DeepSeek Harness: fuses execution rules into the standard, ptc, cordis, and minimal presets and into every subagent prompt (isSubagent path)",
   "license": "MIT",
   "repository": {
     "type": "git",
